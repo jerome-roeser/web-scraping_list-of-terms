@@ -1,0 +1,6 @@
+Links for the following term: nouvelles
+
+Links for the following term: data
+
+List of websites that couldn't be scraped:
+set()
